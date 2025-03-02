@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "name": "Shanthi",
+        "number": "6379476232",
+        "plan_status": "active"
+      },
+      {
+        "name": "Chandra",
+        "number": "6789064567",
+        "plan_status": "expired"
+      }
+    ]
+  }
