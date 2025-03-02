@@ -81,8 +81,6 @@ def dashboard():
     # Navigation Bar
     # Layout: Sidebar (Navigation) + Main Content + Right Panel
     col1, col2 = st.columns([3, 2])  # Left Sidebar (3) | Right Panel (2)
-
-    st.sidebar.title("Menu")
     # Left Sidebar (Navigation Menu)
     with col1:
         st.sidebar.title("Menu")
